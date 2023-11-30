@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 35.1,
+    "lat": 31.5333
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 283.12,
+    "feels_like": 280.02,
+    "temp_min": 282.54,
+    "temp_max": 283.12,
+    "pressure": 1020,
+    "humidity": 70,
+    "sea_level": 1020,
+    "grnd_level": 912
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7.11,
+    "deg": 307,
+    "gust": 9.61
+  },
+  "clouds": {
+    "all": 96
+  },
+  "dt": 1701109975,
+  "sys": {
+    "type": 2,
+    "id": 2004982,
+    "country": "PS",
+    "sunrise": 1701058656,
+    "sunset": 1701095815
+  },
+  "timezone": 7200,
+  "id": 285066,
+  "name": "Hebron",
+  "cod": 200
+}
